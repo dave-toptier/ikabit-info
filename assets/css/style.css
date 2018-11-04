@@ -1,0 +1,63 @@
+
+
+/*****Header*****/
+
+.page-header:after, .page-header:before{
+	background-color: rgba( 0, 0, 0, 0.25 );
+}
+
+.page-header.page-header-small{
+	min-height: 80vh;
+}
+
+
+
+h1.title{
+	margin-bottom: 0px;
+	font-weight: 400;
+}
+
+h6.title{
+	padding-top: 10px;
+	letter-spacing: 1.5px;
+	font-weight: bold;
+}
+
+/*****Navbar*****/
+
+.bg-primary{
+	background-color: #1E90FF !important;
+}
+
+/*****Main Content*****/
+.description{
+	font-weight: 400;
+}
+
+.blockquote.blockquote-primary{
+	border-color: #1E90FF;
+	color: #1E90FF;
+}
+
+.blockquote.blockquote-primary small{
+	color: #1E90FF;
+}
+
+.section-story-overview p.blockquote{
+	width: 300px;
+}
+
+.btn-primary{
+	background-color: #1E90FF;
+	border-color: #1E90FF; 
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:active:hover, .btn-primary.active:hover, .show>.btn-primary.dropdown-toggle, .show>.btn-primary.dropdown-toggle:focus, .show>.btn-primary.dropdown-toggle:hover{
+	background-color: #0169CE;
+	border-color: #0169CE;
+}
+
+h4.title{
+	color: #1E90FF;
+}
+
